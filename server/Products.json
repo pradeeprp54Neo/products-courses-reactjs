@@ -1,0 +1,22 @@
+{
+    "Products":[
+        {"id":1,"pname":"Jacket","price":3456,"quantity":4,"images":"./img/1.jpg"},
+        {"id":2,"pname":"Shoes","price":2456,"quantity":4,"images":"./img/2.jpg"},
+        {"id":3,"pname":"Jacket-1","price":4456,"quantity":4,"images":"./img/3.jpg"},
+        {"id":4,"pname":"Shoes","price":5456,"quantity":4,"images":"./img/4.jpg"},
+        {"id":5,"pname":"Gloves","price":6456,"quantity":4,"images":"./img/5.jpg"},
+        {"id":6,"pname":"Backpack","price":7456,"quantity":4,"images":"./img/6.jpg"},
+        {"id":7,"pname":"Bike access.","price":8456,"quantity":4,"images":"./img/7.jpg"},
+        {"id":8,"pname":"Hat","price":9456,"quantity":4,"images":"./img/8.jpg"},
+        {"id":9,"pname":"Sports shoe","price":8456,"quantity":4,"images":"./img/9.jpg"},
+        {"id":10,"pname":"Wallet","price":5456,"quantity":4,"images":"./img/10.jpg"}
+
+    ],
+    "courses":[
+        {"id":1,"course":"Html","description":"The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser."},
+        {"id":2,"course":"Css","description":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. "},
+        {"id":3,"course":"Bootstrap","description":"Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."},
+        {"id":4,"course":"Javascript","description":"JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled and multi-paradigm. It has dynamic typing, prototype-based object-orientation and first-class functions."}
+    ],
+    "enquire":[]
+}
